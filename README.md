@@ -7,9 +7,10 @@ input test linefield.
 # Docker file configuration  
 ### docker yaml text  
 ```
-git status
-gitt add
-git commit
+
+$ git status
+$ gitt add
+$ git commit
 ```
 
 
